@@ -25,7 +25,7 @@ Creates port configs to a template from attributes in a csv file
 	Example:
  	 Interface	  Name 	       tagged 	    untagged
  	 Int 1/1	  computer     1	        11
-  	 Int 1/2	  phone   	   2	        22
+  	 Int 1/2	  phone        2	        22
   	 Int 1/3	  ap	       3	        33
   	 Int 1/4	  game	       4	        44
  	 Int 1/5	  phone        5	        55
