@@ -2,7 +2,7 @@ import jinja2
 import os
 import csv
 
-template_file = "switch.j2"
+template_file = "port-template.j2"
 csv_parameter_file = input("Enter parameter-file to convert: ")
 config_parameters = []
 output_directory = "output"
